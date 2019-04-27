@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+#识别成go
+*.js linguist-language=Go
+*.css linguist-language=Go
+*.html linguist-language=Go
